@@ -33,6 +33,7 @@ class Chats(VSQLModel, table=True):
 
 ### Result on `test.py`
 - The result is:
+- 
 ![user table](image.png)
 ![chat table](image-1.png)
 - `test.py` was executed without any errors.
